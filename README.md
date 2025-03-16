@@ -53,4 +53,4 @@ Open Formative2_Group4.ipynb in the Jupyter interface.
 ## Contributors
 1.Madol Abraham Kuol Madol
 2.
-3.
+3.Alhassan A Dumbuya
