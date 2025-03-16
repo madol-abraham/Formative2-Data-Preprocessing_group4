@@ -2,7 +2,7 @@
 
 ## Assignment Overview
 
-In this assignment, we were tasked to work with two real-world datasets that contained overlapping but different features. Our goal was to augment, merge, and enhance the data while ensuring consistency in a machine learning pipeline.
+For this assignment, we were tasked with working with two real-world datasets that contained overlapping but different features. We aimed to augment, merge, and enhance the data while ensuring consistency in a machine learning pipeline.
 
 This assignment assessed our ability to:
 
@@ -16,7 +16,6 @@ This assignment assessed our ability to:
 ### Prerequisites
 Ensure you have the following installed:
 - Python 3.8 or later
-- Jupyter Notebook or Jupyter Lab
 - Required Python packages (see below)
 
 ### Installation Steps
@@ -27,18 +26,11 @@ Ensure you have the following installed:
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 3. Install dependencies:
-```sh
-pip install -r requirements.txt
-```
-If a requirements.txt file is not provided, install the essential libraries manually:
+ install the essential libraries manually:
 ```sh
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-4. Launch Jupyter Notebook:
-```sh
-jupyter notebook
-```
-Open Formative2_Group4.ipynb in the Jupyter interface.
+Open Formative2_Group4.ipynb in the Google collab.
 
 ## Usage Guide
 
@@ -46,11 +38,12 @@ Open Formative2_Group4.ipynb in the Jupyter interface.
 
 1. Load Dependencies: Run the first few cells to import necessary libraries.
 
-2. Data Preprocessing: The notebook includes data argumentation on csv file, merging datasets with transitive properties, Data Consistency and Quality Checks. Modify if necessary.
+2. Data Preprocessing: The notebook includes data argumentation on the CSV file, merging datasets with transitive properties, Data Consistency and Quality Checks. Modify if necessary.
 
 3. Model Training: 
 
 ## Contributors
 1.Madol Abraham Kuol Madol
-2.
-3.Alhassan A Dumbuya
+2. Nina Mwangi
+3. Alhassan A Dumbuya
+4. Florent Hirwa
