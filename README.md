@@ -38,6 +38,12 @@ Open Formative2_Group4.ipynb in Google Colab.
 
 3. Model Training: 
 
+## Video Walkthrough
+Task 1. Data Augmentation on CSV Files was done by Nina and presented by her.
+Task 2. Merging Datasets with Transitive Properties was done by Madol and presented by him.
+Task 3. Data Consistency and Quality Checks were performed by Alhassan, and he covers it in the video.
+Task 4. Bonus Challenge, this was taken up by Florent, and he presents on the same.
+
 ## Contributors
 1. Madol Abraham Kuol Madol
 2. Nina Mwangi
