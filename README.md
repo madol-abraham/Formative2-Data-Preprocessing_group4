@@ -51,6 +51,6 @@ Open Formative2_Group4.ipynb in the Jupyter interface.
 3. Model Training: 
 
 ## Contributors
-1.
+1.Madol Abraham Kuol Madol
 2.
 3.
