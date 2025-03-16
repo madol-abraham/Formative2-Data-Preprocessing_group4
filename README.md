@@ -20,17 +20,13 @@ Ensure you have the following installed:
 
 ### Installation Steps
 1. Clone this repository or download the `Formative2_Group4.ipynb` file.
-2. Create a virtual environment (optional but recommended):
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
+2. Open file via Google Colab.
 3. Install dependencies:
  install the essential libraries manually:
 ```sh
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-Open Formative2_Group4.ipynb in the Google collab.
+Open Formative2_Group4.ipynb in Google Colab.
 
 ## Usage Guide
 
@@ -43,7 +39,7 @@ Open Formative2_Group4.ipynb in the Google collab.
 3. Model Training: 
 
 ## Contributors
-1.Madol Abraham Kuol Madol
+1. Madol Abraham Kuol Madol
 2. Nina Mwangi
 3. Alhassan A Dumbuya
 4. Florent Hirwa
