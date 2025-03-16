@@ -1,9 +1,16 @@
 # Formative-2---Data-Preprocessing_group4
 
-## Project Overview
+## Assignment Overview
 
-This project is part of an assignment for Group 4, focusing on implementing machine learning techniques using Python. The notebook, `Formative2_Group4.ipynb`, contains data analysis, model training, and evaluation steps. The objective is to explore a given dataset, apply appropriate preprocessing techniques, and train models to derive meaningful insights.
+In this assignment, we were tasked to work with two real-world datasets that contained overlapping but different features. Our goal was to augment, merge, and enhance the data while ensuring consistency in a machine learning pipeline.
 
+This assignment assessed our ability to:
+
+- Handle missing values in merged datasets.
+- Merge datasets with transitive properties across features.
+- Engineer new features from existing data.
+- Apply CSV augmentation techniques to improve dataset quality.
+- Ensure data consistency for machine learning models.
 ## Setup Instructions
 
 ### Prerequisites
@@ -19,8 +26,31 @@ Ensure you have the following installed:
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
-
-#### 1. Install dependencies:
+3. Install dependencies:
 ```sh
 pip install -r requirements.txt
 ```
+If a requirements.txt file is not provided, install the essential libraries manually:
+```sh
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+4. Launch Jupyter Notebook:
+```sh
+jupyter notebook
+```
+Open Formative2_Group4.ipynb in the Jupyter interface.
+
+## Usage Guide
+
+### Follow these steps to execute the notebook:
+
+1. Load Dependencies: Run the first few cells to import necessary libraries.
+
+2. Data Preprocessing: The notebook includes data argumentation on csv file, merging datasets with transitive properties, Data Consistency and Quality Checks. Modify if necessary.
+
+3. Model Training: 
+
+## Contributors
+1.
+2.
+3.
